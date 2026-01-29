@@ -1,0 +1,23 @@
+﻿{
+  "corgi_bark": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "finalprojectmod:corgi_bark",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gem_chime": {
+    "category": "player",
+    "subtitle": "subtitles.finalprojectmod.gem_chime",
+    "sounds": [
+      {
+        "name": "finalprojectmod:gem_chime",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

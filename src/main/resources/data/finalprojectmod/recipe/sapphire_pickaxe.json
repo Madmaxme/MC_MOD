@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "X": "finalprojectmod:sapphire",
+        "#": "minecraft:stick"
+    },
+    "result": {
+        "id": "finalprojectmod:sapphire_pickaxe",
+        "count": 1
+    }
+}

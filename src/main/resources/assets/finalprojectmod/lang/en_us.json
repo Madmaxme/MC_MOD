@@ -1,0 +1,18 @@
+{
+  "itemGroup.finalprojectmod": "Example Mod Tab",
+  "block.finalprojectmod.corgi_dispenser_block": "Corgi Dispenser Block",
+  "item.finalprojectmod.transmutation_wand": "Transmutation Wand",
+  "item.finalprojectmod.corgi_spawn_egg": "Corgi Spawn Egg",
+  "item.finalprojectmod.sapphire": "Sapphire",
+  "item.finalprojectmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "subtitles.finalprojectmod.gem_chime": "Gem Chimes",
+  "finalprojectmod.configuration.title": "Final Project Mod Configs",
+  "finalprojectmod.configuration.section.finalprojectmod.common.toml": "Final Project Mod Configs",
+  "finalprojectmod.configuration.section.finalprojectmod.common.toml.title": "Final Project Mod Configs",
+  "finalprojectmod.configuration.items": "Item List",
+  "finalprojectmod.configuration.logDirtBlock": "Log Dirt Block",
+  "finalprojectmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "finalprojectmod.configuration.magicNumber": "Magic Number",
+  "block.finalprojectmod.sapphire_block": "Sapphire Block",
+  "item.finalprojectmod.pizza_item": "Pizza Item"
+}

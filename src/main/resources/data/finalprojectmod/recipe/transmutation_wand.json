@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " H ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:glowstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "finalprojectmod:transmutation_wand",
+    "count": 1
+  },
+  "show_notification": true
+}
